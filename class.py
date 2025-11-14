@@ -1,0 +1,50 @@
+#python 3.7.1
+
+#class
+
+class sekolah:
+   pass
+
+class siswa:
+   pass
+  
+    
+
+
+#class
+
+class sekolah :
+  pass
+  
+class siswa :
+  pass
+# class & object
+  pass
+
+sekolah1 = sekolah()
+sekolah2 = sekolah()
+
+print(type(sekolah1))
+print(type(sekolah2))
+
+
+
+#python 3.7.1
+
+#class
+
+class Sekolah :
+    pass
+  
+    
+sekolah1= Sekolah()
+sekolah1.nama = "SMK PGRI 35 Solokan jeruk"
+sekolah1.alamat = "JL RHO Kosasih No 90 Cibodas"
+sekolah2= Sekolah()
+sekolah2.nama = "SMKN 9 bandung"
+sekolah2.alamat = "JL soekarno-Hatta No 10"
+
+print(sekolah1.nama)
+print(sekolah1.alamat)
+print(sekolah2.nama)
+print(sekolah2.alamat)
